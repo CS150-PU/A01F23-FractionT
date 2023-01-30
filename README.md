@@ -29,10 +29,10 @@ but will not write chunks of your code.
 
 **Here is the problem that you are to solve**
 
-> Young grade-schoolers often have trouble adding factions. You are to
+> Young grade-schoolers often have trouble adding and multiplying factions. You are to
 > write a complete C++ program that will give the grade-schooler the
 > ability to enter any two fractions. As output, your program is to
-> print the two fractions and their sum as a fraction (this fraction
+> print the two fractions and their sum & product as a fraction (this fraction
 > will **not** be reduced to lowest terms). You can assume that the
 > value zero is never entered for the denominator and that each
 > numerator and denominator will be a whole number.
@@ -41,19 +41,16 @@ Here is exactly what your program is to output (asterisks and all), and
 user input is in **bold**:
 
 <pre>
-***********************
-* Fraction Calculator *
-***********************
+Hello, what is your name? Megan
+Hello, Megan! My name is Star and I want to help you add and multiply fractions.
 
-Enter Fraction #1: <b>1/2</b>
-Enter Fraction #2: <b>2/3</b>
+Please enter fraction1: (x / y): 1 / 2
+Please enter fraction2: (x / y): 2 / 3
 
-1/2 + 2/3 = 7/6
+1 / 2 + 2 / 3 = 7 / 6
+1 / 2 * 2 / 3 = 2 / 6
 
-C:\\Users\\ryandj\\source\\repos\\ryan2135Assign01\\Debug\\FractionCalculator.exe
-(process 19584) exited with code 0.
-
-Press any key to close this window . . .
+Megan, I hope this helped!!! Good-bye. :)
 </pre>
 
 **To complete this assignment you must submit the following:**
