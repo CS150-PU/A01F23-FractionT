@@ -1,4 +1,4 @@
-## CS150/250 C++ Template
+## CS150 Fraction Calculator Template
 
 ## Commands
 
